@@ -9,5 +9,5 @@
 
 @section('content')
     <p>Este es el contenido de la vista</p>
-    <a href="{{route('pagina2 pru')}}"> Links a pagina 2</a>
+    <a href="{{route('pagina2 pru2')}}"> Links a pagina 2</a>
 @endsection
